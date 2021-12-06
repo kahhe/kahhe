@@ -8,6 +8,7 @@ Book nerd? Great! Here's my book list.
 
 [![Goodreads Badge](https://img.shields.io/badge/Goodreads-372213?style=for-the-badge&logo=goodreads&logoColor=white)](https://www.goodreads.com/user/show/81172401-kah-heng)
 
+[Storygraph](https://app.thestorygraph.com/profile/kahheng)
 
 <!--
 **kahhe/kahhe** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
