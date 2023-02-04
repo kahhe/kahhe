@@ -7,7 +7,7 @@ Programming languages I have experience with:
 - Java
 - Verilog
 
-### Socials
+#### Socials
 
 Add me on LinkedIn if you know me!
 
