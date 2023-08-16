@@ -1,10 +1,11 @@
 ### Hi there 👋
 
-I'm Kah Heng, currently a computer engineering undergraduate in National University of Singapore.
+I'm Kah Heng, a computer engineering undergraduate at the National University of Singapore.
 
 Programming languages I have experience with:
 - C/C++
 - Java
+- Python
 - Verilog
 
 #### Socials
